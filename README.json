@@ -15,10 +15,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-03-11T01:25:11Z",
+            "last_commit": "2026-03-12T00:44:03Z",
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8633
+            "stars": 8634
           }
         },
         {
@@ -28,10 +28,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-03-11T01:01:04Z",
+            "last_commit": "2026-03-12T03:18:57Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 14657
+            "stars": 14665
           }
         }
       ],
@@ -81,7 +81,7 @@
             "last_commit": "2026-03-07T02:23:23Z",
             "owner": "google",
             "repo": "bumble",
-            "stars": 482
+            "stars": 483
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-03-10T10:07:04Z",
             "owner": "Reedyuk",
             "repo": "blue-falcon",
-            "stars": 439
+            "stars": 440
           }
         },
         {
@@ -233,10 +233,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-03-06T09:40:46Z",
+            "last_commit": "2026-03-11T21:18:09Z",
             "owner": "JuulLabs",
             "repo": "kable",
-            "stars": 1133
+            "stars": 1134
           }
         }
       ],
@@ -384,7 +384,7 @@
             "last_commit": "2026-03-06T04:34:12Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 18911
+            "stars": 18915
           }
         },
         {
@@ -394,7 +394,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-05T11:31:55Z",
+            "last_commit": "2026-03-11T12:27:59Z",
             "owner": "NordicSemiconductor",
             "repo": "pc-nrfconnect-launcher",
             "stars": 209
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-11T04:09:56.627Z",
+    "last_updated": "2026-03-12T04:13:39.399Z",
     "original_repository": "dotintent/awesome-ble",
     "source_repository": "v1nvn/enhansome-ble",
     "source_repository_description": null,
